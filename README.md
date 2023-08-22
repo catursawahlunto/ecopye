@@ -19,5 +19,7 @@ saya ingin
 - File yang di copy
 + File yang tidak di copy
 
+## DOWNLOAD
+- Slahkan klik release untuk download
 ## Contact
 - [@whatsapp](https://wa.me/6282133381777)
