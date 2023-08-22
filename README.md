@@ -1,4 +1,4 @@
-#ECOPYE untuk WINDOWS 10 dan 11
+##ECOPYE untuk WINDOWS 10 dan 11
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/catursawahlunto/catursawahlunto/main/ecopye.svg"/>
 </h1>
